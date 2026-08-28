@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi 👋, I'm Aziz
 
-<!--
-**Aziz2k618/Aziz2k618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 BSCS Student | Aspiring Full-Stack Developer | UI/UX Designer
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Computer Science student
+- 💻 Aspiring Full-Stack Developer
+- 🎨 UI/UX Designer
+
+## 🛠️ Technologies
+
+- HTML
+- CSS
+- JavaScript
+- React
+- C++
+- Java
+- Python
+- Figma
+- Git & GitHub
+
+## 📜 Certifications
+
+- UI/UX Design Certification
+- Bootstrap Certification
+
+
+## 📌 Projects
+
+- 🌦️ [Weather App] (https://aziz2k618.github.io/Weather-App-Project/)
+- 🛒 Amazon Checkout
+- 📦 Inventory Management System
+- 🎨 book.Hunt Mobile App UI
+
+## 📫 Connect With Me
+
+- LinkedIn
+- Portfolio
+- Fiverr
