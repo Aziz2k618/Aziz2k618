@@ -22,8 +22,8 @@
 
 ## 📜 Certifications
 
-- [UI/UX Design Certification](Coursera UIUX.pdf)
-- [Developing Websites and Front-Ends with Bootstrap](Coursera Bootstrap.pdf)
+- [UI/UX Design Certification](Coursera%20UIUX.pdf)
+- [Developing Websites and Front-Ends with Bootstrap](Coursera%20Bootstrap.pdf)
 
 
 ## 📌 Projects
