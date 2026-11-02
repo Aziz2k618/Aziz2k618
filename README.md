@@ -1,22 +1,22 @@
 # Hi 👋, I'm Aziz
 
-💻 BSCS Student | Aspiring Full-Stack Developer | UI/UX Designer
+💻 BSCS Student | Aspiring Software Engineer | Front-End Developer | UI/UX Designer
 
 ## 🚀 About Me
 
 - 🎓 Computer Science student
-- 💻 Aspiring Full-Stack Developer
+- 💻 Aspiring Software Engineer
+- 📱 Front-End Developer
 - 🎨 UI/UX Designer
 
 ## 🛠️ Technologies
 
+- React
+- JavaScript
 - HTML
 - CSS
-- JavaScript
-- React
-- C++
-- Java
 - Python
+- C++
 - Figma
 - Git & GitHub
 
