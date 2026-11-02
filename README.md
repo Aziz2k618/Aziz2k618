@@ -40,5 +40,5 @@ I enjoy developing web projects, designing user-friendly interfaces, and continu
 
 ## 📫 Connect With Me
 
-- [LinkedIn](www.linkedin.com/in/aziz-ur-rehman5757)
+- [LinkedIn](https://www.linkedin.com/in/aziz-ur-rehman5757/)
 - Portfolio 
